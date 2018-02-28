@@ -12,32 +12,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f5869e8-768c-4722-8178-d2a253ebfa6b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/complexListClone.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/deepOfTree.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/findFirstInCommon.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/findNumberAppendOnce.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/findNumbersWithSum.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/findSumPath.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/firstNotRepeatChar.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/getLastKNumber.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/getUglyNumber.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/inversePairs.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/isValidOrder.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mergeList.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/permutation.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/printBTreeFromTopToBottom.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/printCombination.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/printMatrix.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/printNDigits.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/printProbability.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/printfMinNumber.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/reverseList.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/reverseSentence.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/treeToList.cpp" />
-      <change beforePath="$PROJECT_DIR$/../chapter1.md" afterPath="$PROJECT_DIR$/../chapter1.md" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" afterPath="$PROJECT_DIR$/main.cpp" />
-      <change beforePath="$PROJECT_DIR$/rebulitTree.cpp" afterPath="$PROJECT_DIR$/rebuiltTree.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/0423.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter1.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/digitOne.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/array_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/copyConstrcutor.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/s_c_diff.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/sizeof_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/sizeof_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/string_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/string_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/赋值运算符函数_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/赋值运算符函数_2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/赋值运算符函数_3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/minnum.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/power.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/quicksort.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/stack2queue.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/剑指Offer+名企面试官精讲典型编程题清晰PDF.pdf" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/practisePro.pro" afterPath="$PROJECT_DIR$/practisePro.pro" />
       <change beforePath="$PROJECT_DIR$/solution.h" afterPath="$PROJECT_DIR$/solution.h" />
+      <change beforePath="$PROJECT_DIR$/../剑指offer 名企面试官精讲典型编程题(jb51.net).pdf" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,104 +46,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="solution.h" pinned="false" current-in-tab="false">
+      <file leaf-file-name="solution.h" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/solution.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="115" column="29" lean-forward="true" selection-start-line="115" selection-start-column="29" selection-end-line="115" selection-end-column="29" />
+            <state relative-caret-position="264">
+              <caret line="86" column="23" lean-forward="true" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
               <folding>
                 <element signature="e#35#51#0" expanded="true" />
-                <element signature="e#1452#1464#0" expanded="true" />
+                <element signature="e#1586#1598#0" expanded="true" />
+                <element signature="e#1979#1991#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="printProbability.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/printProbability.cpp">
+      <file leaf-file-name="findSumPath.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/findSumPath.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reverseSentence.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reverseSentence.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="33" column="15" lean-forward="false" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="findNumbersWithSum.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/findNumbersWithSum.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="findNumberAppendOnce.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/findNumberAppendOnce.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="deepOfTree.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deepOfTree.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="getNumberOfK.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/getNumberOfK.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="56" column="17" lean-forward="false" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="findFirstInCommon.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/findFirstInCommon.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="inversePairs.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/inversePairs.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="94" column="11" lean-forward="false" selection-start-line="94" selection-start-column="11" selection-end-line="94" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="48" column="32" lean-forward="false" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+            <state relative-caret-position="306">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -216,11 +133,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="76" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="75" />
+    <option name="y" value="48" />
     <option name="width" value="843" />
-    <option name="height" value="844" />
+    <option name="height" value="872" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -260,11 +177,6 @@
             <path>
               <item name="practisePro" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="practisePro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practisePro" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="practisePro" type="462c0819:PsiDirectoryNode" />
-              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -328,28 +240,28 @@
       <workItem from="1519271684897" duration="10143000" />
       <workItem from="1519353611339" duration="6823000" />
       <workItem from="1519372363502" duration="21302000" />
+      <workItem from="1519837027330" duration="1437000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149039000" />
+    <option name="totallyTimeSpent" value="150476000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="76" width="843" height="844" extended-state="0" />
-    <editor active="true" />
+    <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17793594" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1960912" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32709113" sideWeight="0.6814332" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958803" sideWeight="0.495114" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3805668" sideWeight="0.53855276" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35205993" sideWeight="0.53855276" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3805668" sideWeight="0.4614472" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3805668" sideWeight="0.4614472" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39950064" sideWeight="0.4899023" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32709113" sideWeight="0.6814332" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -373,33 +285,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="34" column="25" lean-forward="false" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/isSubTree.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solution.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#35#51#0" expanded="true" />
-            <element signature="e#1452#1464#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -412,7 +297,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#35#51#0" expanded="true" />
-            <element signature="e#1452#1464#0" expanded="true" />
+            <element signature="e#1586#1598#0" expanded="true" />
+            <element signature="e#1979#1991#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -423,21 +309,14 @@
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
             <element signature="e#35#51#0" expanded="true" />
-            <element signature="e#1452#1464#0" expanded="true" />
+            <element signature="e#1586#1598#0" expanded="true" />
+            <element signature="e#1979#1991#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt" />
     <entry file="file://$PROJECT_DIR$/practisePro.pro" />
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/printNDigits.h" />
     <entry file="file://$PROJECT_DIR$/printNDigits.cpp">
       <provider selected="true" editor-type-id="text-editor">
@@ -560,14 +439,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/findSumPath.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/complexListClone.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
@@ -682,33 +553,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstNotRepeatChar.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="48" column="32" lean-forward="false" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inversePairs.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="94" column="11" lean-forward="false" selection-start-line="94" selection-start-column="11" selection-end-line="94" selection-end-column="11" />
+        <state relative-caret-position="882">
+          <caret line="49" column="32" lean-forward="false" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/findFirstInCommon.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
+        <state relative-caret-position="648">
           <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
           <folding />
         </state>
@@ -716,7 +571,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/getNumberOfK.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="1008">
           <caret line="56" column="17" lean-forward="false" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
           <folding />
         </state>
@@ -732,7 +587,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/findNumberAppendOnce.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
+        <state relative-caret-position="630">
           <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
           <folding />
         </state>
@@ -748,20 +603,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/reverseSentence.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
+        <state relative-caret-position="594">
           <caret line="33" column="15" lean-forward="false" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solution.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="115" column="29" lean-forward="true" selection-start-line="115" selection-start-column="29" selection-end-line="115" selection-end-column="29" />
-          <folding>
-            <element signature="e#35#51#0" expanded="true" />
-            <element signature="e#1452#1464#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -770,6 +614,74 @@
         <state relative-caret-position="0">
           <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/power.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inversePairs.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="94" column="11" lean-forward="false" selection-start-line="94" selection-start-column="11" selection-end-line="94" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstNotRepeatChar.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digitOne.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack2queue.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/findSumPath.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="86" column="23" lean-forward="true" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
+          <folding>
+            <element signature="e#35#51#0" expanded="true" />
+            <element signature="e#1586#1598#0" expanded="true" />
+            <element signature="e#1979#1991#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
