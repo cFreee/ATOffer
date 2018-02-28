@@ -4,9 +4,46 @@ project(practisePro)
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(practisePro
-    main.cpp
-    printListReversingly.cpp
+        complexListClone.cpp
+        deepOfTree.cpp
+        deleteNode.cpp
+        digitOne.cpp
+        findFirstInCommon.cpp
+        findMaxSum.cpp
+        findNumberAppendOnce.cpp
+        findNumbersWithSum.cpp
+        findSumPath.cpp
+        firstNotRepeatChar.cpp
+        getLastKNumber.cpp
+        getNumberOfK.cpp
+        getUglyNumber.cpp
+        inversePairs.cpp
+        isPostOrder.cpp
+        isSubTree.cpp
+        isValidOrder.cpp
+        main.cpp
+        mergeList.cpp
+        minnum.cpp
+        moreThanHalfNum.cpp
+        numberOf1Between1AndN.cpp
+        permutation.cpp
+        power.cpp
+        printBTreeFromTopToBottom.cpp
+        printCombination.cpp
+        printfMinNumber.cpp
+        printListReversingly.cpp
+        printMatrix.cpp
+        printNDigits.cpp
+        printProbability.cpp
+        quicksort.cpp
         rebuiltTree.cpp
-    replaceBlank.cpp
-    serachBinArr.cpp
-    solution.h printNDigits.cpp deleteNode.cpp reorderList.cpp theLastKthNode.cpp reverseList.cpp mergeList.cpp isSubTree.cpp printMatrix.cpp stackWithMin.cpp isValidOrder.cpp printBTreeFromTopToBottom.cpp isPostOrder.cpp findSumPath.cpp complexListClone.cpp treeToList.cpp permutation.cpp printCombination.cpp moreThanHalfNum.cpp getLastKNumber.cpp findMaxSum.cpp numberOf1Between1AndN.cpp printfMinNumber.cpp getUglyNumber.cpp firstNotRepeatChar.cpp inversePairs.cpp findFirstInCommon.cpp getNumberOfK.cpp deepOfTree.cpp findNumberAppendOnce.cpp findNumbersWithSum.cpp reverseSentence.cpp printProbability.cpp)
+        reorderList.cpp
+        replaceBlank.cpp
+        reverseList.cpp
+        reverseSentence.cpp
+        serachBinArr.cpp
+        solution.h
+        stack2queue.cpp
+        stackWithMin.cpp
+        theLastKthNode.cpp
+        treeToList.cpp)
